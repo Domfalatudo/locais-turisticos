@@ -41,6 +41,7 @@ h4 {
 
 p {
     color: var(--text-secondary);
+    padding-top: 2.4rem;
 }
 
 ul {
